@@ -1,1 +1,1 @@
-This .zip file contains many instances of R-CTSP, S-CTSP, and GCTSP and the Lingo codes for solving them. The city data of the instances are derived from TSPLIB. We may randomly divide a city set into several subsets, forming the shared city subset and exclusive city subsets of S-CTSP or R-CTSP. A randomly generated city color matrix determines the city colors of GCTSP cases. We ran the Lingo codes on a PC with an AMD Ryzen5 5600H CPU and 16GB RAM and obtained the results enclosed in the .zip file.
+Operational Research Group
