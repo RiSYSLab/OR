@@ -1,1 +1,1 @@
-# OR
+Colored Traveling Salesman Problem
