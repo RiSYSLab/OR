@@ -1,1 +1,3 @@
-This dataset contains the instances used for the experiments in the papers "A Cloud Computing Approach to Superscale Colored Traveling Salesman Problems" and "Delaunay-Triangulatio-Based Variable Neighborhood Search to Solve Large-Scale General Colored Traveling Salesman Problems."
+This dataset contains the city color matrices of the instances used for the experiments in the papers "A Cloud Computing Approach to Superscale Colored Traveling Salesman Problems" and "Delaunay-Triangulatio-Based Variable Neighborhood Search to Solve Large-Scale General Colored Traveling Salesman Problems."
+Each city color file storing a city color matrix in .txt format is named “number of cities_number of colors (number of salesmen)”. Each file corresponds to a case in TSPLIB with the same number of cities. 
+In our case, a salesman can consider an arbitrary city carrying only his color as a depot.
