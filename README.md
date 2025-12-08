@@ -1,3 +1,5 @@
 This dataset contains the city coordinates and color matrices of the instances used for the experiments in the paper "Time-Critical Colored Traveling Salesman Problem: Formulation, Solution, and Application".  
+  
 The "**city**" directory contains all city coordinate files. Each file is stored in "*.txt*" format and named following the pattern "*Name_number-of-cities*". Each city corresponds to a line segment. The first column records the city index; the second and third columns provide the coordinates of the segment's start point; and the fourth and fifth columns specify the coordinates of the end point.  
+  
 The "**color**" directory stores all city-color matrices, with filenames formatted as "*Name_number-of-cities_number-of-salesmen*". The first row of each file indicates the total number of colors associated with the cities. The remaining rows record the access permissions between salesmen and cities. Specifically, if the entry in row *i* and column *j* is 1, then salesman *i*-1 is permitted to visit city *j*.  
