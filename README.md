@@ -1,7 +1,7 @@
 # Dataset for "Learning-Based Parallel Adaptive Operator Selection in Iterated Local Search for Colored Traveling Salesman Problems"
 
 This dataset contains benchmark instances of Colored Traveling Salesman Problems (CTSP) and related CBTSP instances used in paper "Learning-Based Parallel Adaptive Operator Selection in Iterated Local Search for Colored Traveling Salesman Problems, Zhicheng Lin, Chen Yang, and Jun Li."
-The files are in a TSPLIB-style plain-text format.
+The files are in the TSPLIB-style plain-text format.
 
 ## Directory Structure
 
