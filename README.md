@@ -71,3 +71,5 @@ EOF
 - In `CTSP_SET_SECTION`, the first integer in each line is the salesman/color ID. The following integers are nodes assigned to that set. `-1` terminates the line.
 - `DEPOT_SECTION` defines the depot/start node. `-1` terminates the section.
 - Some instances are derived from TSPLIB or CTSP-related literature.
+Dataset for Learning-Based Parallel Adaptive Operator Selection in Iterated Local Search for Colored Traveling Salesman Problems
+Authors: Zhicheng Lin, Chen Yang, and Jun Li
